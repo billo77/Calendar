@@ -1,0 +1,60 @@
+th {
+	font-size: 62px;
+	color: rgb(5, 5, 122);
+	letter-spacing: 3px;
+}
+td {
+	border: 1px black solid;
+	font-weight: bold;
+}
+table {
+	border-collapse: collapse;
+	margin: 30px 0 40px 200px;
+	border: 1px black solid;
+}
+#day {
+	background: blue;
+	color: #fff;
+	text-align: center;
+	width: 70px;
+	height: 20px;
+}
+.num {
+	padding: 0px 95px 75px 3px;
+	vertical-align: top;
+	text-align: left;
+	font-size: 20px;
+}
+#weekend {
+	background: rgb(219, 219, 218);
+	color: rgb(8, 8, 185);
+}
+.new {
+	text-align: center;
+	align-items: center;
+}
+h3 {
+	margin-bottom: 0px;
+}
+span {
+	color: red;
+	font-size: 22px;
+}
+.new:hover {
+	background: rgb(250, 203, 203);
+}
+.num:hover {
+	background: aquamarine;
+}
+#weekend:hover {
+	background: aquamarine;
+}
+.other:hover {
+	background: aquamarine;
+}
+#line {
+	background: rgb(127, 129, 129);
+	width: 1100px;
+	height: 10px;
+	margin: 50px 60px 40px 70px;
+}
